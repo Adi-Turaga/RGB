@@ -1,0 +1,80 @@
+/*  Flat color palette downloaded from
+ *  http://htmlcolorcodes.com/color-charts/
+ *
+ *  Check out our powerful color picker
+ *  http://htmlcolorcodes.com/color-picker/
+ *
+ *  Want to learn more about colors in CSS?
+ *  http://htmlcolorcodes.com/tutorials/
+ *
+ *  - - - - - - - - - - - - - - - - - - 
+ *  Credits:
+ *
+ *  Original color palette by
+ *  http://designmodo.github.io/Flat-UI/
+ *
+ *  - - - - - - - - - - - - - - - - - -
+ *  How to use:
+ *  
+ *  Include this file with your stylesheets
+ *  in the <head> of your HTML file:
+ *
+ *  <head>
+ *    ...
+ *    <link href="path/to/css/flat_colors.css" rel="stylesheet">
+ *    ...
+ *  </head>
+ *  
+ *  and in the <body> of your HTML you can style
+ *  any element using a class:
+ *	
+ *	<body>
+ *		...
+ *  	<h1 class="turquoise">Your Colored Title</h1>
+ *    ...
+ *  </body>
+ */
+
+/* Teals */
+#turquoise { background-color: #1abc9c; }
+#green-sea { background-color: #16a085; }
+
+/* Greens */
+#emerald { background-color: #2ecc71; }
+#nephritis { background-color: #27ae60; }
+
+/* Blues */
+#peter-river { background-color: #3498db; }
+#belize-hole { background-color: #2980b9; }
+
+/* Purples */
+#amethyst { background-color: #9b59b6; }
+#wisteria { background-color: #8e44ad; }
+
+/* Blacks */
+#wet-asphalt { background-color: #34495e; }
+#midnight-blue { background-color: #2c3e50; }
+
+/* Yellows */
+#sunflower { background-color: #f1c40f; }
+#orange { background-color: #f39c12; }
+
+/* Oranges */
+#carrot { background-color: #e67e22; }
+#pumpkin { background-color: #d35400; }
+
+/* Reds */
+#alizarin { background-color: #e74c3c; }
+#pomegranate { background-color: #c0392b; }
+
+/* Whites */
+#clouds { background-color: #ecf0f1; }
+#silver { background-color: #bdc3c7; }
+
+/* Grays */
+#concrete { background-color: #95a5a6; }
+#asbestos { background-color: #7f8c8d; }
+
+/*  Want more? Get the full flat color palette at
+ *  http://htmlcolorcodes.com/color-charts/
+ */
