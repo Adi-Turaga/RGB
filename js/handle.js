@@ -4,7 +4,7 @@ window.addEventListener("load", function() {
         const FD = new FormData(form);
         XHR.addEventListener("load", function(event) {});
         XHR.addEventListener("error", function(event) {});
-        XHR.open("POST", "../backend/form.php");
+        XHR.open("POST", "backend/form.php");
         XHR.send(FD);
     }
 
